@@ -8,7 +8,7 @@ Features
 
 Fetch user credit scores from the blockchain.
 Update credit scores based on DAO participation.
-djust credit scores based on loan repayment and defaults.
+adjust credit scores based on loan repayment and defaults.
 Fully on-chain implementation using Solidity.
 Frontend built with React for a user-friendly interface.
 
